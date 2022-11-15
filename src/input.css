@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.quote {
+    font-size: 300%;
+    font-weight: bolder;
+    line-height: 60px;
+}
+
+.sunny {
+    background: hsl(36, 100%, 99%);
+}
